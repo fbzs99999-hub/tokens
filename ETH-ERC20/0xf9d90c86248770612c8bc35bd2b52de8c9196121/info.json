@@ -1,0 +1,21 @@
+{
+  "symbol": "CIGAR",
+  "name": "Cigar Token",
+  "type": "BEP20",
+  "address": "0xf9d90c86248770612c8bc35bd2b52de8c9196121",
+  "decimals": 18,
+  "website": "https://solo.to/cigar",
+  "description": "CIGAR is a luxury crypto brand redefining the aroma of wealth. Built on BNB Smart Chain with 98.5% liquidity locked for one year and renounced ownership.",
+  "explorer": "https://bscscan.com/token/0xf9d90c86248770612c8bc35bd2b52de8c9196121",
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/"
+    }
+  ]
+}
